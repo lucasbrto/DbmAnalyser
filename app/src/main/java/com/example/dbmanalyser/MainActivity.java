@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
             try {
+
+                //Alteração git
                     // set up cell monitoring
                     signalStrengthView = findViewById(R.id.signalStrengthView);
                     imageView =  findViewById(R.id.imageView);
